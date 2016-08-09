@@ -1,0 +1,9 @@
+Test en C avec ou sans biblothèques.
+
+Prérequis:
+    Cunit pour les tests unitaires
+    Make pour le makefile
+
+bibliotheque-partagee
+    Test de création de librairies partagées
+    Compilation et import dynamique en C
