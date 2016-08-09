@@ -4,6 +4,6 @@ Prérequis:
     Cunit pour les tests unitaires
     Make pour le makefile
 
-bibliotheque-partagee
-    Test de création de librairies partagées
+bibliotheque-dynamique
+    Test de création d'une bibliotheque dynamique
     Compilation et import dynamique en C
